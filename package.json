@@ -1,0 +1,18 @@
+{
+  "name": "moons-and-stars",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "mechanic dev",
+    "build": "mechanic build",
+    "serve": "mechanic serve",
+    "new": "mechanic new function"
+  },
+  "devDependencies": {
+    "@mechanic-design/core": "^2.0.0-beta.11",
+    "@mechanic-design/cli": "^2.0.0-beta.11"
+  },
+  "dependencies": {
+    "@mechanic-design/engine-react": "^2.0.0-beta.11",
+    "@fdoflorenzano/flowers": "^0.1.0"
+  }
+}
